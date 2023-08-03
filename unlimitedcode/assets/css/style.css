@@ -1,0 +1,92 @@
+.content1 p {
+    color: black;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.content1 h3 {
+    color: black;
+    text-align: center;
+}
+
+.banner1 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.slider1 {
+    width: 100%;
+    height: 100%;
+}
+
+.slider1 img {
+    width: 100%;
+}
+
+.overlay1 {
+    width: 100%;
+    height: 100%;
+    /* background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)); */
+}
+
+.imgstyle img {
+    width: 60%;
+    height: 30vh;
+    border-radius: 100px;
+    border: 5px solid orange;
+}
+
+.imgstyle {
+    margin: 50px auto;
+    text-align: center;
+}
+
+.imgstyle1 {
+    text-align: center;
+}
+
+.contentrow {
+    margin-top: 50px;
+}
+
+.contentside {
+    margin-top: 100px;
+}
+
+.contentside1 {
+    margin-top: 50px;
+}
+
+.btncolor {
+    margin: 30px auto;
+    background-color: transparent;
+    color: black;
+    border: 2px solid orange;
+    text-align: center;
+}
+
+.btncolor:hover {
+    margin: 30px auto;
+    background-color: rgb(241, 195, 109);
+    color: black;
+    border: 2px solid orange;
+    text-align: center;
+}
+
+.fullcontent {
+    padding: 40px;
+}
+
+* {
+    color: rgb(139, 122, 6);
+}
+
+.overlay {
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
